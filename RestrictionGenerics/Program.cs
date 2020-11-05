@@ -26,7 +26,7 @@ namespace RestrictionGenerics
             Console.Write("Max: ");
             Console.WriteLine(max);
 
-
+            Console.ReadKey();
         }
     }
 }
